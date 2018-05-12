@@ -1,0 +1,27 @@
+_repo: Life-of-Edward-the-Black-Prince_40791
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40791-h/images/front_cover_full.jpg
+creator:
+  author:
+    agent_name: Creighton, Louise
+    birthdate: 1850
+    deathdate: 1936
+    gutenberg_agent_id: '40822'
+    url: http://www.gutenberg.org/2009/agents/40822
+description: ''
+gutenberg_issued: '2012-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40791'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Edward, Prince of Wales, 1330-1376'
+- !lcsh 'Great Britain -- History -- Edward III, 1327-1377'
+- !lcc 'DA'
+title: Life of Edward the Black Prince
+url: http://www.gutenberg.org/ebooks/40791
